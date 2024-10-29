@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Devansh Khandelwal</h1>
-<h3 align="center">MERN Developer | Android Developer</h3>
+<h3 align="center">Full Stack Developer | Android Developer</h3>
 
 - 🌱 I’m currently learning **Next-js Solidity**
 
