@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **GraphQL**
 
-- 💬 Ask me about **React, Fa  stAPI,ExpressJs , Langchain , Langgraph**
+- 💬 Ask me about **React, FastAPI,ExpressJs , Langchain , Langgraph, GRPC**
 
 - 📫 How to reach me **devanshdek@gmail.com**
 
