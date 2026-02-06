@@ -1,7 +1,17 @@
 <h1 align="center">Hi 👋, I'm Devansh</h1>
-<h3 align="center">A passionate FullStack developer and Competitive Programmer</h3>
+<!-- <h3 align="center">Competitive Programmer • Systems Engineer • Full Stack Developer</h3> -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=devansh-dek&label=Profile%20views&color=0e75b6&style=flat" alt="devansh-dek" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=devansh-dek&label=Profile%20views&color=0e75b6&style=flat" alt="devansh-dek" /> </p>
+-->
+
+# Konichiwa, Welcome <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
+
+<div align="center">
+<img alt="GIF" align="center" src="https://media.giphy.com/media/d5fMI9ftgQiGzoZoB9/giphy.gif">
+</div>
+
+</br>
+</br>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devansh-dek" alt="devansh-dek" /></a> </p>
 
