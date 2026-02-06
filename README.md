@@ -15,16 +15,12 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devansh-dek" alt="devansh-dek" /></a> </p>
 
-- 🔭 I’m currently working on **AI Agents and agentic workflows**
+- 🔭 I’m currently working on **C++ based low latency systems**
 
-- 🌱 I’m currently learning **GraphQL**
-
-- 💬 Ask me about **React, FastAPI,ExpressJs , Langchain , Langgraph, GRPC**
+- 💬 Ask me about **FastAPI, GRPC, C++, Python, Langchain , Langgraph, GRPC**
 
 - 📫 How to reach me **devanshdek@gmail.com**
-
-- ⚡ Fun fact **I think earth's flat**
-
+- 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/devansh-khandelwal-6b4877195/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/devansh-khandelwal-6b4877195/" height="30" width="40" /></a>
