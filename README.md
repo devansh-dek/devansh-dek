@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Devansh</h1>
+<h1 align="center">I'm Devansh</h1>
 <!-- <h3 align="center">Competitive Programmer • Systems Engineer • Full Stack Developer</h3> -->
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=devansh-dek&label=Profile%20views&color=0e75b6&style=flat" alt="devansh-dek" /> </p>
